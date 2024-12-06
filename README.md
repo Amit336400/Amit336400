@@ -8,7 +8,7 @@
 - 📫 How to reach me **amitkundu.developer@gmail.com**
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/amit-kundu-983671263/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="[https://www.linkedin.com/in/https://www.linkedin.com/in/amit-kundu-983671263/](https://www.linkedin.com/in/amit-kundu-983671263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
