@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amit Kundu</h1>
-<h3 align="center">An Android Developer from India</h3>
+<h1 align="center">Hi 👋, I'm </h1>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/Amit336400/Chat-App)
 
 - 🌱 I’m currently learning **Android development in Jetpack Compose**
 
@@ -11,22 +9,22 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
-  <a target="_blank" href="https://github.com/Amit336400">
+  <a target="_blank" href="">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" />
   </a>
 </div>
@@ -37,7 +35,7 @@
 <p>
   <a 
     target="_blank" 
-    href="http://www.linkedin.com/in/devamitk" 
+    href="" 
     style="display: inline-block;">
     <img 
       src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" 
